@@ -2,7 +2,7 @@
 
 Welcome to my **Data Structures & Algorithms (DSA) journey — from absolute scratch**.
 
-This repository documents my learning path, practice problems, notes, mistakes, and progress as I build my DSA fundamentals step by step.
+This repository documents my learning path from basics, practice problems, notes, mistakes, and progress as I build my DSA fundamentals step by step.
 
 I’m not here to pretend I know everything.  
 I’m here to learn properly, consistently, and publicly.
